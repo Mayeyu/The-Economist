@@ -11,3 +11,7 @@ From:
 
 # How to help?
 Download the newspaper from the websites mentioned above or somewhere else you know and make a PR.
+Prefer an Asia Edition.
+
+# What's the AD FREE edition?
+The newspaper contains a few pages of advertisement, which results in an unhappy reading experience. So I decided to splite the pdf and merge it again to remove these unwelcomed pages. Every ad-removed pdf begin with 'AD FREE'.
